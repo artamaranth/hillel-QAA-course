@@ -14,8 +14,8 @@ public class Cards {
         return dealCards(players);
     }
 
-    static int i = 0;
-    static int k = 0;
+    private static int i = 0;
+    private static int k = 0;
 
     private static String[] dealCards(int players) {
 
